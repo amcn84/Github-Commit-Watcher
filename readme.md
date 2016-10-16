@@ -17,4 +17,4 @@ Github Commit Watcher can be placed as is into your web server as long as the PH
 - Add your token from PostMan (My case may not be the same for your case)
 
 ### Watch the repo in action!
-[https://honestreviews.it/quackcon/]
+[http://bau.kim/quackcon/]
